@@ -18,6 +18,10 @@ Recognition and Its Application to Scene Text Recognition》](https://arxiv.org/
 
 ## How to use
 
+    git clone https://github.com/MagicianQi/crnn_chinese
+    cd crnn_chinese
+    mkdir models
+    wget https://github.com/MagicianQi/crnn_chinese/releases/download/v0.1/crnn_chinese_5529.pth
     python testing.py
     
 ## References
